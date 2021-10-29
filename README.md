@@ -63,12 +63,12 @@ Line	Description
      - “FastQC output”: all six RawData outputs of FastQC 
      - Then Execute
      - Inspect the webpage output produced by the tool to check if trimming/filtering is necessary before mapping the reads.
-     
-     The quality score for each sequence is a string of characters, one for each base of the nucleic sequence, used to characterize the probability of mis-identification of each base. The score is encoded using the ASCII character table.
+
+```
+The quality score for each sequence is a string of characters, one for each base of the nucleic sequence, used to characterize the probability of mis-identification of each base. The score is encoded using the ASCII character table.
 According to our quality check no further trimming or filtering is needed.
 -All samples show a non-normal GC content distribution as it is a characteristic feature of many exome capture methods.
 
-```
 
 ### Step 3: Adapter Trimming
 - Use **Trimmomatic tool** on the all the fastq datasets to trim adapters and keep the settings By-default and Execute
