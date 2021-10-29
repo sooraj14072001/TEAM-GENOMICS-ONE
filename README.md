@@ -5,7 +5,7 @@ HackBio Internship provides a platform for young Life Science Research Aspirants
 <h2 align="center"> 👨‍🔬💻 TEAM GENOMICS ONE 💻👩‍🔬 </h2>
 <p align="center">
  <br>
- <img align="center" src="https://www.nursingcenter.com/getattachment/d8003813-38ac-4105-a4c7-bd3e4676e748/Your-Health-in-the-Hands-of-Genetics-and-Genomics.aspx"  width="400px">
+ <img align="center" src=""  width="400px">
 <br>
 	<br>
 	</p>
