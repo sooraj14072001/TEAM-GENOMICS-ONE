@@ -42,11 +42,14 @@ Retrieve sequenced reads of father, mother and proband  in fastq format from [Ze
 
 ### Step 2: Quality control
 In the FastQ format each read, representing a fragment of the library, is encoded by 4 lines:
-Line	Description
-1	Always begins with @ followed by the information about the read
-2	The actual nucleic sequence
-3	Always begins with a + and contains sometimes the same info in line 1
-4	Has a string of characters which represent the quality scores associated with each base of the nucleic sequence; must have the same number of characters as line 2
+Description
+Line 1 ->  Always begins with @ followed by the information about the read
+
+Line 2 -> The actual nucleic sequence
+
+Line 3 -> Always begins with a + and contains sometimes the same info in line 1
+
+Line 4 -> Has a string of characters which represent the quality scores associated with each base of the nucleic sequence; must have the same number of characters as line 2
 
 - Run the **FastQC tool** on six of the fastq datasets with the following parameter:
 ```
