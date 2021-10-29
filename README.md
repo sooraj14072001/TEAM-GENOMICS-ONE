@@ -238,7 +238,7 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | ------- | --- | --- | --- |
 | <h3 align="center"> Negar Khalili  </h3> | <img src="https://i.ibb.co/kM4g1XH/IMG-2650.jpg"  width="200" height="250"> | @ |   https://www.linkedin.com/in/negarkhalili/  |
 | ------- | --- | --- | --- |
-| <h3 align="center"> Esther Opone </h3> | <img src=""  width="200" height="250"> | @thevalueadder |   https://www.linkedin.com/in/estheropone/  |
+| <h3 align="center"> Esther Opone </h3> | <img src="https://github.com/thevalueadder/lovelace/issues/1#issue-1025938401"  width="200" height="250"> | @thevalueadder |   https://www.linkedin.com/in/estheropone/  |
 
 
 
