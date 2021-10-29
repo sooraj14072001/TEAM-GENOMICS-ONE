@@ -72,6 +72,7 @@ Line 4 -> Has a string of characters which represent the quality scores associat
 ```
 The quality score for each sequence is a string of characters, one for each base of the nucleic sequence, used to characterize the probability of mis-identification of each base. The score is encoded using the ASCII character table.
 According to our quality check no further trimming or filtering is needed.
+
 -All samples show a non-normal GC content distribution as it is a characteristic feature of many exome capture methods.
 
 
@@ -258,7 +259,7 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | <h3 align="center"> Esther Opone </h3> | <img src="https://user-images.githubusercontent.com/92184734/137252429-a2c2e69b-f7aa-469f-b191-3a2e6aa33506.jpeg"  width="200" height="250"> | @thevalueadder |   https://www.linkedin.com/in/estheropone/  |
 | ------- | --- | --- | --- |
 | <h3 align="center"> Margaret Adedayo Opeoluwa  </h3> | <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHQnOKKvGlBow/profile-displayphoto-shrink_800_800/0/1635528503200?e=1640822400&v=beta&t=qlyR_kuznZK73yC0Yb6dRIlWINy4AnvlqOF9wOTCyMQ"  width="200" height="250"/> | @LadyMarg |   https://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/ |
-
+| <h3 align="center"> Habeneheir Hailu Tickheir  </h3> | - | @HabenTick |  www.linkedin.com/in/habeneheir-h-tickheir |
 
 ## Thank you for your Time and Patience :relaxed: 
  <p align="center">
