@@ -41,6 +41,13 @@ Retrieve sequenced reads of father, mother and proband  in fastq format from [Ze
 ```
 
 ### Step 2: Quality control
+In the FastQ format each read, representing a fragment of the library, is encoded by 4 lines:
+Line	Description
+1	Always begins with @ followed by the information about the read
+2	The actual nucleic sequence
+3	Always begins with a + and contains sometimes the same info in line 1
+4	Has a string of characters which represent the quality scores associated with each base of the nucleic sequence; must have the same number of characters as line 2
+
 - Run the **FastQC tool** on six of the fastq datasets with the following parameter:
 ```
     - “Short read data from your current history”: all 6 FASTQ datasets selected with Multiple datasets
@@ -56,6 +63,11 @@ Retrieve sequenced reads of father, mother and proband  in fastq format from [Ze
      - “FastQC output”: all six RawData outputs of FastQC 
      - Then Execute
      - Inspect the webpage output produced by the tool to check if trimming/filtering is necessary before mapping the reads.
+     
+     The quality score for each sequence is a string of characters, one for each base of the nucleic sequence, used to characterize the probability of mis-identification of each base. The score is encoded using the ASCII character table.
+According to our quality check no further trimming or filtering is needed.
+-All samples show a non-normal GC content distribution as it is a characteristic feature of many exome capture methods.
+
 ```
 
 ### Step 3: Adapter Trimming
