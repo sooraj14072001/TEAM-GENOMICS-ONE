@@ -25,9 +25,9 @@ Our Team Genomics One is a diverse community of students, researchers and profes
 ## Project Title: "Exome Sequencing Data Analysis for Diagnosing Genetic Disorders" :computer:
 Have a look at the ***New state-of-the-art molecular diagnostic genetic test-"Exome Sequencing"***
 
-There are around 180,000 exons in humans, with a total length of approximately 30 million base pairs (30 Mb). Thus, while accounting for only 1% of the human genome, the exome is thought to include up to 85% of all disease-causing mutations. **Exome sequencing**, as an alternative to whole-genome sequencing in the detection of genetic disease, is less expensive while yet covering significantly more potential disease-causing variant sites than genotyping arrays. This is especially important in the case of rare genetic conditions, since the causal variations may present in the human population at too low a frequency to be included on genotyping arrays.
+There are around 180,000 exons in humans, with a total length of approximately 30 million base pairs (30 Mb). Thus, while accounting for only 1% of the human genome, the exome is thought to include up to 85% of all disease-causing mutations. **Exome sequencing**, as an alternative to whole-genome sequencing in the detection of genetic diseases, is less expensive, yet covers significantly more potential disease-causing variant sites than genotyping arrays. This is especially important in the case of rare genetic conditions, since the causal variations may present in the human population at too low a frequency to be included on genotyping arrays.
 
-Our Team Genomics One will investigate :detective: exome sequencing data from a family triple:family_man_woman_boy: in which the boy child has a rare genetic disorder but both parents, who are consanguineous, are unaffected. Our lab’s goal is to figure out which genetic variant is causing the condition.
+Our Team Genomics One will investigate :detective: exome sequencing data from a family trio :family_man_woman_boy: in which the boy child has a rare genetic disorder but both parents, who are consanguineous, are unaffected. Our lab’s goal is to figure out which genetic variant is causing the condition.
 
 <br>
 
@@ -41,7 +41,7 @@ Our Team Genomics One will investigate :detective: exome sequencing data from a 
 </p>
 
 ### Step 1: Data preparation
-Retrieve sequenced reads of father, mother and proband  in fastq format from [Zendo](https://zenodo.org/record/3054169) and import the datasets into the https://usegalaxy.org/ or https://usegalaxy.eu/
+Retrieve sequenced reads of father, mother and proband  in fastq format from [Zenodo](https://zenodo.org/record/3054169) and import the datasets into the https://usegalaxy.org/ or https://usegalaxy.eu/
 
 ```
 - Check if the datatypes were assigned correctly in the format, fastqsanger.gz 
@@ -88,7 +88,7 @@ According to our quality check no further trimming or filtering is needed.
 
 
 ### Step 3: Adapter Trimming
-- Use **Trimmomatic tool** on the all the fastq datasets to trim adapters and keep the settings By-default and Execute
+- Use **Trimmomatic tool** on the all the fastq datasets to trim adapters and keep the settings By-default and Execute.
 
 
 ### Step 4: Read Mapping
@@ -175,7 +175,7 @@ Inspect the VCF outputs produced by FreeBayes.
      - “output_type”: uncompressed VCF
      - Then Execute
 ```
-Look out for the output listing the total number of variant lines processed, along with the number of splits, realigned, and skipped records
+Look out for the output listing the total number of variant lines processed, along with the number of splits, realigned, and skipped records.
 
 ### Step 8: Variant annotation
 - Use the **SnpEff Download** to download genome annotation database  hg19
