@@ -3,9 +3,13 @@ HackBio Internship provides a platform for young Life Science Research Aspirants
  
  ## About The Team
 <h2 align="center"> 👨‍🔬💻 TEAM GENOMICS ONE 💻👩‍🔬 </h2>
+Genomics is an interdisciplinary field of biology focusing on the structure, function, evolution, mapping, and editing of genomes. It employs recombinant DNA, DNA sequencing methods, and bioinformatics to sequence, assemble, and analyse the structure and function of genomes. A genome is an organism's complete set of DNA, including all of its genes as well as its hierarchical, three-dimensional structural configuration. 
+
+Our Team Genomics One is a diverse community of students, researchers and professionals from all over the globe working together to hone our skills in Bioinformatics and Computational biology. 
+
 <p align="center">
  <br>
- <img align="center" src=""  width="400px">
+ <img align="center" src="https://www.nursingcenter.com/getattachment/d8003813-38ac-4105-a4c7-bd3e4676e748/Your-Health-in-the-Hands-of-Genetics-and-Genomics.aspx"  width="400px">
 <br>
 	<br>
 	</p>
@@ -18,7 +22,7 @@ HackBio Internship provides a platform for young Life Science Research Aspirants
 
 <br>
 
-## Project Title: "Exome Sequencing Data Analysis for diagnosing a genetic disease" :computer:
+## Project Title: "Exome Sequencing Data Analysis for Diagnosing Genetic Disorders" :computer:
 Have a look at the ***New state-of-the-art molecular diagnostic genetic test-"Exome Sequencing"***
 
 There are around 180,000 exons in humans, with a total length of approximately 30 million base pairs (30 Mb). Thus, while accounting for only 1% of the human genome, the exome is thought to include up to 85% of all disease-causing mutations. **Exome sequencing**, as an alternative to whole-genome sequencing in the detection of genetic disease, is less expensive while yet covering significantly more potential disease-causing variant sites than genotyping arrays. This is especially important in the case of rare genetic conditions, since the causal variations may present in the human population at too low a frequency to be included on genotyping arrays.
@@ -28,6 +32,13 @@ Our Team Genomics One will investigate :detective: exome sequencing data from a 
 <br>
 
 ## Workflow ✍️
+
+<p align="center">
+   <br>
+<img align="center" alt="" src="https://user-images.githubusercontent.com/88287926/139530679-912adc62-bd0b-4451-afdd-31433b7af113.png" width="650">
+ <br>
+<br>
+</p>
 
 ### Step 1: Data preparation
 Retrieve sequenced reads of father, mother and proband  in fastq format from [Zendo](https://zenodo.org/record/3054169) and import the datasets into the https://usegalaxy.org/ or https://usegalaxy.eu/
@@ -229,16 +240,6 @@ Look out for the output listing the total number of variant lines processed, alo
 - Then Execute
 ```
 
-
-<p align="center">
-   <br>
-<img align="center" alt="gif" src="" width="650">
- <br>
-<br>
-</p>
-
-
-
 ## References :scroll:
 Wolfgang Maier, Bérénice Batut, Torsten Houwaart, Anika Erxleben, Björn Grüning, 2021 Exome sequencing data analysis for diagnosing a genetic disease (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html 
 
@@ -249,21 +250,25 @@ Batut et al., 2018 Community-Driven Data Analysis Training for Biology Cell Syst
 ## Contributors 🤝
 Get to know our awesome team members and their contributions 👩‍💻👨‍💻
 
-| Team members	| Picture | @Slack username  | Contributions |
+|     Team members  	|     Picture    |       @Slack username        |       Contributions      |
 | ------- | --- | --- | --- |
 
 | <h3 align="center"> Sooraj Shivakumar  </h3> | <img src="https://user-images.githubusercontent.com/88287926/137459720-8031c4ef-9eb7-4484-8892-214049ab76d2.jpg"  width="200" height="250"> | @Sooraj  |  https://in.linkedin.com/in/sooraj-s-71756510a  | 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Negar Khalili  </h3> | <img src="https://i.ibb.co/kM4g1XH/IMG-2650.jpg"  width="200" height="250"> | @negkhalili |   https://www.linkedin.com/in/negarkhalili/  |
+| ------- | --- | --- | --- |
 | <h3 align="center"> Esther Opone </h3> | <img src="https://user-images.githubusercontent.com/92184734/137252429-a2c2e69b-f7aa-469f-b191-3a2e6aa33506.jpeg"  width="200" height="250"> | @thevalueadder |   https://www.linkedin.com/in/estheropone/  |
+| ------- | --- | --- | --- |
 | <h3 align="center"> Margaret Adedayo Opeoluwa  </h3> | <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHQnOKKvGlBow/profile-displayphoto-shrink_800_800/0/1635528503200?e=1640822400&v=beta&t=qlyR_kuznZK73yC0Yb6dRIlWINy4AnvlqOF9wOTCyMQ"  width="200" height="250"/> | @LadyMarg |   https://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/ |
+| ------- | --- | --- | --- |
 | <h3 align="center"> Habeneheir Hailu Tickheir  </h3> | <img src="" width="200" height="250"> | @HabenTick |  www.linkedin.com/in/habeneheir-h-tickheir |
+| ------- | --- | --- | --- |
 | <h3 align="center"> Namrata  </h3> | <img src="https://user-images.githubusercontent.com/92246471/139524615-2635065c-84f9-4fb9-a007-2254fa8ac041.jpeg"  width="200" height="250"> | @Namrata  | https://www.linkedin.com/in/namrata-sharma-186097174/  | 
+| ------- | --- | --- | --- |
 | <h3 align="center"> Shalaka More </h3> | <img src="https://user-images.githubusercontent.com/92265707/139527102-77ffeb65-f015-4e2c-a4dd-25b2476c29b3.jpg"  width="200" height="250"> | @shalaka| https://www.linkedin.com/in/shalaka-more-03277913b |
-| <h3 align="center"> Samson Folami  </h3> | <img src="https://user-images.githubusercontent.com/92054491/139527666-0fffe595-7f63-49f5-b61e-14d3fd64a42a.jpg"  width="200" height="250"> | @Samson | https://www.linkedin.com/in/samson-folami-54b4b41a1/ |
-| <h3 align="center"> Shruti Chowdhury  </h3> | <img src="https://user-images.githubusercontent.com/92269847/139529873-95afa758-4da4-461b-a8ad-778db6d3f528.jpg"  width="200" height="250"> | @Shruti2754 |  www.linkedin.com/in/shruti-chowdhury-8b876921a  |
-| <h3 align="center"> Filani Bisola  </h3> | <img src="https://user-images.githubusercontent.com/49569153/139529654-6299966b-26b7-41f6-b253-586e5d338ffd.jpg"  width="200" height="250"> | @bisola |   https://www.instagram.com/filani.bisola/  |
-
+| ------- | --- | --- | --- |
+| <h3 align="center"> Samson Folami </h3> | <img src="https://user-images.githubusercontent.com/92054491/139527666-0fffe595-7f63-49f5-b61e-14d3fd64a42a.jpg"  width="200" height="250"> | @Samson| https://www.linkedin.com/in/samson-folami-54b4b41a1/ |
+| ------- | --- | --- | --- |
 ## Thank you for your Time and Patience :relaxed: 
  <p align="center">
    <br>
