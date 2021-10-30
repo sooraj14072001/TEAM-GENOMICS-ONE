@@ -262,7 +262,7 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | ------- | --- | --- | --- |
 | <h3 align="center"> Margaret Adedayo Opeoluwa  </h3> | <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHQnOKKvGlBow/profile-displayphoto-shrink_800_800/0/1635528503200?e=1640822400&v=beta&t=qlyR_kuznZK73yC0Yb6dRIlWINy4AnvlqOF9wOTCyMQ"  width="200" height="250"/> | @LadyMarg |   https://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/ |
 | ------- | --- | --- | --- |
-| <h3 align="center"> Habeneheir Hailu Tickheir  </h3> | <img src="" width="200" height="250"> | @HabenTick |  www.linkedin.com/in/habeneheir-h-tickheir |
+| <h3 align="center"> Habeneheir Hailu Tickheir  </h3> | <img src="https://user-images.githubusercontent.com/92265936/139535101-eda55553-ef48-4f03-bacc-28fa28d5bc58.jpeg" width="200" height="250"> | @HabenTick |  www.linkedin.com/in/habeneheir-h-tickheir |
 | ------- | --- | --- | --- |
 | <h3 align="center"> Namrata  </h3> | <img src="https://user-images.githubusercontent.com/92246471/139524615-2635065c-84f9-4fb9-a007-2254fa8ac041.jpeg"  width="200" height="250"> | @Namrata  | https://www.linkedin.com/in/namrata-sharma-186097174/  | 
 | ------- | --- | --- | --- |
