@@ -2,21 +2,15 @@
 
 ### Step 1. Data Preparation
 Following links are the galaxy links with uploaded datasets:
-- Uploaded Father_R1_fastq_file: [Galaxy link](https://usegalaxy.eu/datasets/11ac94870d0bb33a94963102d559fad9/display/?preview=True)
-- Uploaded Father_R2_fastq_file: [Galaxy link](https://usegalaxy.eu/datasets/11ac94870d0bb33a612b4dc4e32ee64b/display/?preview=True)
-- Uploaded Mother_R1_fastq_file: [Galaxy link](https://usegalaxy.eu/datasets/11ac94870d0bb33ae00919ce6f0ec993/display/?preview=True)
-- Uploaded Mother_R2_fastq_file: [Galaxy link](https://usegalaxy.eu/datasets/11ac94870d0bb33af7eada2e86e1cd19/display/?preview=True)
-- Uploaded Proband_R1_fastq_file: [Galaxy link](https://usegalaxy.eu/datasets/11ac94870d0bb33a331f37d5e50d47ec/display/?preview=True)
-- Uploaded Proband_R2_fastq_file: [Galaxy link](https://usegalaxy.eu/datasets/11ac94870d0bb33afec1c6ffd1fc3eb1/display/?preview=True)
+https://zenodo.org/record/3243160/files/father_R1.fq.gz
+https://zenodo.org/record/3243160/files/father_R2.fq.gz
+https://zenodo.org/record/3243160/files/mother_R1.fq.gz
+https://zenodo.org/record/3243160/files/mother_R2.fq.gz
+https://zenodo.org/record/3243160/files/proband_R1.fq.gz
+https://zenodo.org/record/3243160/files/proband_R2.fq.gz
 
 ### Step 2: Quality Control
 In this project, after uploading datasets, quality check was performed for using FastQC tool. The FastQC tool gave the output with a good Phred score, which signifies those reads are of good quality. The following are the output of FastQC tool:
-- FastQC of Father_R1: [FastQC_webpage](https://usegalaxy.eu/datasets/11ac94870d0bb33a6c560f96aa9380fa/display/?preview=True)
-- FastQC of Father_R2: [FastQC_webpage](https://usegalaxy.eu/datasets/11ac94870d0bb33a894719daa729af22/display/?preview=True)
-- FastQC of Mother_R1: [FastQC_webpage](https://usegalaxy.eu/datasets/11ac94870d0bb33a48162945b9838974/display/?preview=True)
-- FastQC of Mother_R2: [FastQC_webpage](https://usegalaxy.eu/datasets/11ac94870d0bb33ad5c6a2003435e6d1/display/?preview=True)
-- FastQC of Proband_R1: [FastQC_webpage](https://usegalaxy.eu/datasets/11ac94870d0bb33a0921102cb8b5fbec/display/?preview=True)
-- FastQC of Proband_R2:  [FastQC_webpage](https://usegalaxy.eu/datasets/11ac94870d0bb33adb7b74e87f290b8a/display/?preview=True)
 
 <p align="center">
 <br>
@@ -111,7 +105,7 @@ The inheritance pattern of the causative variants or candidate variant detection
 	</p>
 
 ## Conclusion
-It is concluded from the study that the following variants in the respective genes were detected which may cause osteopetrosis:
+It is concluded from the study that the following variants in the respective genes were detected which may cause Genetic Disorders:
 - C>T 6479041 (MCPH1)
 - C>G 19819723 (LPL)
 - T>C 27324821 (CHRNA2)
