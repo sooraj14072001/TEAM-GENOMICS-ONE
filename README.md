@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/88287926/137457473-432503b6-1da7-4abf-93b1-b0f2aeae7a37.jpg" width="400" height="200"></h1>
-HackBio Internship provides a platform for young Life Science Research Aspirants to collaborate and harness their postentials effectively in this genomic revolution using Bioinformatics and Computational Biology. The HackBio Internship (Thanos 2.0) 2021 is a Rigorous five week Internship focusing on Scientific Research, Programming, Bioinformatic Tools, Data Analysis, Networking and Social Activities.
+HackBio Internship provides a platform for young Life Science Research Aspirants to collaborate and harness their potentials effectively in this genomic revolution using Bioinformatics and Computational Biology. The HackBio Internship (Thanos 2.0) 2021 is a Rigorous five week Internship focusing on Scientific Research, Programming, Bioinformatic Tools, Data Analysis, Networking and Social Activities.
  
  ## About The Team
 <h2 align="center"> 👨‍🔬💻 TEAM GENOMICS ONE 💻👩‍🔬 </h2>
@@ -268,6 +268,8 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | <h3 align="center"> Shalaka More </h3> | <img src="https://user-images.githubusercontent.com/92265707/139527102-77ffeb65-f015-4e2c-a4dd-25b2476c29b3.jpg"  width="200" height="250"> | @shalaka| https://www.linkedin.com/in/shalaka-more-03277913b |
 | ------- | --- | --- | --- |
 | <h3 align="center"> Samson Folami </h3> | <img src="https://user-images.githubusercontent.com/92054491/139527666-0fffe595-7f63-49f5-b61e-14d3fd64a42a.jpg"  width="200" height="250"> | @Samson| https://www.linkedin.com/in/samson-folami-54b4b41a1/ |
+| ------- | --- | --- | --- |
+| <h3 align="center"> Shruti Chowdhury  </h3> | <img src="https://user-images.githubusercontent.com/92269847/139531710-d2f5bd44-4263-4c7b-80b8-812e81225d05.jpg"  width="200" height="250"> | @Shruti2754 |  www.linkedin.com/in/shruti-chowdhury-8b876921a  | 
 | ------- | --- | --- | --- |
 ## Thank you for your Time and Patience :relaxed: 
  <p align="center">
