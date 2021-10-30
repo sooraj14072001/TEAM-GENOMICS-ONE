@@ -255,6 +255,7 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 
 | <h3 align="center"> Sooraj Shivakumar  </h3> | <img src="https://user-images.githubusercontent.com/88287926/137459720-8031c4ef-9eb7-4484-8892-214049ab76d2.jpg"  width="200" height="250"> | @Sooraj  |  https://in.linkedin.com/in/sooraj-s-71756510a  | 
 | ------- | --- | --- | --- |
+| ------- | --- | --- | --- |
 | <h3 align="center"> Negar Khalili  </h3> | <img src="https://i.ibb.co/kM4g1XH/IMG-2650.jpg"  width="200" height="250"> | @negkhalili |   https://www.linkedin.com/in/negarkhalili/  |
 | ------- | --- | --- | --- |
 | <h3 align="center"> Esther Opone </h3> | <img src="https://user-images.githubusercontent.com/92184734/137252429-a2c2e69b-f7aa-469f-b191-3a2e6aa33506.jpeg"  width="200" height="250"> | @thevalueadder |   https://www.linkedin.com/in/estheropone/  |
