@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/88287926/137457473-432503b6-1da7-4abf-93b1-b0f2aeae7a37.jpg" width="400" height="200"></h1>
-HackBio Internship provides a platform for young Life Science Research Aspirants to collaborate and harness their potentials effectively in this genomic revolution using Bioinformatics and Computational Biology. The HackBio Internship (Thanos 2.0) 2021 is a Rigorous five week Internship focusing on Scientific Research, Programming, Bioinformatic Tools, Data Analysis, Networking and Social Activities.
+HackBio Internship provides a platform for young Life Science Research Aspirants to collaborate and harness their potentials effectively in this genomic revolution using Bioinformatics and Computational Biology. The HackBio Internship (Thanos 2.0) 2021 is a Rigorous five week Internship focusing on Scientific Research, Programming, Bioinformatics Tools, Data Analysis, Networking and Social Activities.
  
  ## About The Team
 <h2 align="center"> 👨‍🔬💻 TEAM GENOMICS ONE 💻👩‍🔬 </h2>
