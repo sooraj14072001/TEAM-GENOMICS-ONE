@@ -255,15 +255,13 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | <h3 align="center"> Sooraj Shivakumar  </h3> | <img src="https://user-images.githubusercontent.com/88287926/137459720-8031c4ef-9eb7-4484-8892-214049ab76d2.jpg"  width="200" height="250"> | @Sooraj  |  https://in.linkedin.com/in/sooraj-s-71756510a  | 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Negar Khalili  </h3> | <img src="https://i.ibb.co/kM4g1XH/IMG-2650.jpg"  width="200" height="250"> | @negkhalili |   https://www.linkedin.com/in/negarkhalili/  |
-| ------- | --- | --- | --- |
 | <h3 align="center"> Esther Opone </h3> | <img src="https://user-images.githubusercontent.com/92184734/137252429-a2c2e69b-f7aa-469f-b191-3a2e6aa33506.jpeg"  width="200" height="250"> | @thevalueadder |   https://www.linkedin.com/in/estheropone/  |
-| ------- | --- | --- | --- |
 | <h3 align="center"> Margaret Adedayo Opeoluwa  </h3> | <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHQnOKKvGlBow/profile-displayphoto-shrink_800_800/0/1635528503200?e=1640822400&v=beta&t=qlyR_kuznZK73yC0Yb6dRIlWINy4AnvlqOF9wOTCyMQ"  width="200" height="250"/> | @LadyMarg |   https://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/ |
 | <h3 align="center"> Habeneheir Hailu Tickheir  </h3> | <img src="" width="200" height="250"> | @HabenTick |  www.linkedin.com/in/habeneheir-h-tickheir |
 | <h3 align="center"> Namrata  </h3> | <img src="https://user-images.githubusercontent.com/92246471/139524615-2635065c-84f9-4fb9-a007-2254fa8ac041.jpeg"  width="200" height="250"> | @Namrata  | https://www.linkedin.com/in/namrata-sharma-186097174/  | 
 | <h3 align="center"> Shalaka More </h3> | <img src="https://user-images.githubusercontent.com/92265707/139527102-77ffeb65-f015-4e2c-a4dd-25b2476c29b3.jpg"  width="200" height="250"> | @shalaka| https://www.linkedin.com/in/shalaka-more-03277913b |
-| <h3 align="center"> Samson Folami </h3> |![20200129_191507](https://user-images.githubusercontent.com/92054491/139527666-0fffe595-7f63-49f5-b61e-14d3fd64a42a.jpg)  width="200" height="250"> | @Samson| https://www.linkedin.com/in/samson-folami-54b4b41a1/ |
-| <h3 align="center"> Shruti Chowdhury  </h3> | <img src="https://user-images.githubusercontent.com/92269847/139529873-95afa758-4da4-461b-a8ad-778db6d3f528.jpg"  width="210" height="260"> | @Shruti2754  |  www.linkedin.com/in/shruti-chowdhury-8b876921a  |
+| <h3 align="center"> Samson Folami  </h3> | <img src="https://user-images.githubusercontent.com/92054491/139527666-0fffe595-7f63-49f5-b61e-14d3fd64a42a.jpg"  width="200" height="250"> | @Samson | https://www.linkedin.com/in/samson-folami-54b4b41a1/ |
+| <h3 align="center"> Shruti Chowdhury  </h3> | <img src="https://user-images.githubusercontent.com/92269847/139529873-95afa758-4da4-461b-a8ad-778db6d3f528.jpg"  width="200" height="250"> | @Shruti2754 |  www.linkedin.com/in/shruti-chowdhury-8b876921a  |
 | <h3 align="center"> Filani Bisola  </h3> | <img src="https://user-images.githubusercontent.com/49569153/139529654-6299966b-26b7-41f6-b253-586e5d338ffd.jpg"  width="200" height="250"> | @bisola |   https://www.instagram.com/filani.bisola/  |
 
 ## Thank you for your Time and Patience :relaxed: 
