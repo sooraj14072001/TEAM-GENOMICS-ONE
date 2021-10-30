@@ -263,8 +263,8 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | <h3 align="center"> Namrata  </h3> | <img src="https://user-images.githubusercontent.com/92246471/139524615-2635065c-84f9-4fb9-a007-2254fa8ac041.jpeg"  width="200" height="250"> | @Namrata  | https://www.linkedin.com/in/namrata-sharma-186097174/  | 
 | <h3 align="center"> Shalaka More </h3> | <img src="https://user-images.githubusercontent.com/92265707/139527102-77ffeb65-f015-4e2c-a4dd-25b2476c29b3.jpg"  width="200" height="250"> | @shalaka| https://www.linkedin.com/in/shalaka-more-03277913b |
 | <h3 align="center"> Samson Folami </h3> |![20200129_191507](https://user-images.githubusercontent.com/92054491/139527666-0fffe595-7f63-49f5-b61e-14d3fd64a42a.jpg)  width="200" height="250"> | @Samson| https://www.linkedin.com/in/samson-folami-54b4b41a1/ |
-<h4 align="center"> Shruti Chowdhury  </h4> | <img src="![PicsArt_04-11-04 25 47](https://user-images.githubusercontent.com/92269847/139529697-7a9cea3f-578a-4458-81bd-51817c173f4c.jpg)"> | @Shruti2754  |  https://www.linkedin.com/in/shruti-chowdhury-8b876921a/  |
-
+| <h3 align="center"> Filani Bisola  </h3> | <img src="https://user-images.githubusercontent.com/49569153/139529654-6299966b-26b7-41f6-b253-586e5d338ffd.jpg"  width="200" height="250"> | @bisola |   https://www.instagram.com/filani.bisola/  |
+| ------- | --- | --- | --- |
 ## Thank you for your Time and Patience :relaxed: 
  <p align="center">
    <br>
