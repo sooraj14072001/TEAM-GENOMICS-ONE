@@ -276,7 +276,7 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | ------- | --- | --- |
 | <h3 align="center"> Janefrances Okeke  </h3> | @Janefrances |  Performed Complete Pipeline https://www.linkedin.com/in/janefrances-okeke-547416223  |
 | ------- | --- | --- |
-| <h3 align="center"> Joy Egbejale </h3> | @joyomonighoo |  Performed Dta retrieval and Quality check in the pipeline |
+| <h3 align="center"> Joy Egbejale </h3> | @joyomonighoo |  Performed Data retrieval and Quality check in the pipeline |
 | ------- | --- | --- |
 
 
