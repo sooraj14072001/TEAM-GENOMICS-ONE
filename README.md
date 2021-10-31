@@ -250,37 +250,34 @@ Batut et al., 2018 Community-Driven Data Analysis Training for Biology Cell Syst
 ## Contributors 🤝
 Get to know our awesome team members and their contributions 👩‍💻👨‍💻
 
-|     Team members  	|     Picture    |       @Slack username        |       Contributions      |
-| ------- | --- | --- | --- |
+|     Team members  	|      @Slack username        |       Contributions      |
+| ------- | --- | --- |
 
-| <h3 align="center"> Sooraj Shivakumar  </h3> | <img src="https://user-images.githubusercontent.com/88287926/137459720-8031c4ef-9eb7-4484-8892-214049ab76d2.jpg"  width="200" height="250"> | @Sooraj  | Validation of Complete Pipeline, Worked on Graphic Representation, Prepared the GitHub Repository and Markdown File.  https://in.linkedin.com/in/sooraj-s-71756510a  | 
-| ------- | --- | --- | --- |
-| ------- | --- | --- | --- |
-| <h3 align="center"> Negar Khalili  </h3> | <img src="https://i.ibb.co/kM4g1XH/IMG-2650.jpg"  width="200" height="250"> | @negkhalili |  Performed Complete Pipeline, Contributed for Workflow in Repo And Worked on Project Proposal. https://www.linkedin.com/in/negarkhalili/  |
-| ------- | --- | --- | --- |
-| <h3 align="center"> Esther Opone </h3> | <img src="https://user-images.githubusercontent.com/92184734/137252429-a2c2e69b-f7aa-469f-b191-3a2e6aa33506.jpeg"  width="200" height="250"> | @thevalueadder |  Performed Complete Pipeline and Worked on Project Proposal  https://www.linkedin.com/in/estheropone/  |
-| ------- | --- | --- | --- |
-| <h3 align="center"> Margaret Adedayo Opeoluwa  </h3> | <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHQnOKKvGlBow/profile-displayphoto-shrink_800_800/0/1635528503200?e=1640822400&v=beta&t=qlyR_kuznZK73yC0Yb6dRIlWINy4AnvlqOF9wOTCyMQ"  width="200" height="250"/> | @LadyMarg | Performed Complete Pipeline, Contributed for Workflow in Repo and Worked on Project Proposal.  https://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/ |
-| ------- | --- | --- | --- |
-| <h3 align="center"> Habeneheir Hailu Tickheir  </h3> | <img src="https://user-images.githubusercontent.com/92265936/139535566-96bb0b8b-ac46-436a-bdc0-8e7587075b36.png" width="200" height="250"> | @HabenTick | Performed Complete Pipeline, Worked on Project Proposal and Contributed for Workflow in Repo.
- www.linkedin.com/in/habeneheir-h-tickheir |
-| ------- | --- | --- | --- |
-| <h3 align="center"> Namrata  </h3> | <img src="https://user-images.githubusercontent.com/92246471/139524615-2635065c-84f9-4fb9-a007-2254fa8ac041.jpeg"  width="200" height="250"> | @Namrata  | Performed Complete Pipeline, Contributed for Workflow in Repo and Worked on Project Proposal.
- https://www.linkedin.com/in/namrata-sharma-186097174/  | 
-| ------- | --- | --- | --- |
-| <h3 align="center"> Shalaka More </h3> | <img src="https://user-images.githubusercontent.com/92265707/139527102-77ffeb65-f015-4e2c-a4dd-25b2476c29b3.jpg"  width="200" height="250"> | @shalaka| Validation of Complete Pipeline and Worked on Project Proposal. https://www.linkedin.com/in/shalaka-more-03277913b |
-| ------- | --- | --- | --- |
-| <h3 align="center"> Samson Folami </h3> | <img src="https://user-images.githubusercontent.com/92054491/139527666-0fffe595-7f63-49f5-b61e-14d3fd64a42a.jpg"  width="200" height="250"> | @Samson| Validation of Complete Pipeline and Worked on Project Proposal.
- https://www.linkedin.com/in/samson-folami-54b4b41a1/ |
-| ------- | --- | --- | --- |
-| <h3 align="center"> Shruti Chowdhury  </h3> | <img src="https://user-images.githubusercontent.com/92269847/139531710-d2f5bd44-4263-4c7b-80b8-812e81225d05.jpg"  width="200" height="250"> | @Shruti2754 | Validation of Complete Pipeline and Worked on Project Proposal.  www.linkedin.com/in/shruti-chowdhury-8b876921a  | 
-| ------- | --- | --- | --- |
-| <h3 align="center"> Filani Bisola  </h3> | <img src="https://user-images.githubusercontent.com/49569153/139529654-6299966b-26b7-41f6-b253-586e5d338ffd.jpg"  width="200" height="250"> | @bisola |  Project Proposal and Performed Quality Check and Mapping in Pipeline.
-  https://www.instagram.com/filani.bisola/  |
-| ------- | --- | --- | --- |
-| <h3 align="center"> Janefrances Okeke  </h3> | <img src="https://user-images.githubusercontent.com/92263336/139578201-14e0c817-ddb3-47b8-9943-89606e4a8b10.jpg"  width="200" height="250"> | @Janefrances |  Performed Complete Pipeline
- https://www.linkedin.com/in/janefrances-okeke-547416223  
-| <h3 align="center"> Joy Egbejale ( @joyomonighoo ) </h3> |
+| <h3 align="center"> Sooraj Shivakumar  </h3> |  @Sooraj  | Validation of Complete Pipeline, Worked on Graphic Representation, Prepared the GitHub Repository and Markdown File https://in.linkedin.com/in/sooraj-s-71756510a  | 
+| ------- | --- | --- |
+| ------- | --- | --- |
+| <h3 align="center"> Negar Khalili  </h3> |  @negkhalili |  Performed Complete Pipeline, Contributed for Workflow in Repo And Worked on Project Proposal https://www.linkedin.com/in/negarkhalili/  |
+| ------- | --- | --- |
+| <h3 align="center"> Esther Opone </h3> |  @thevalueadder |  Performed Complete Pipeline and Worked on Project Proposal  https://www.linkedin.com/in/estheropone/  |
+| ------- | --- | --- |
+| <h3 align="center"> Margaret Adedayo Opeoluwa  </h3> |  @LadyMarg | Performed Complete Pipeline, Contributed for Workflow in Repo and Worked on Project Proposal https://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/ |
+| ------- | --- | --- |
+| <h3 align="center"> Habeneheir Hailu Tickheir  </h3> | @HabenTick | Performed Complete Pipeline, Worked on Project Proposal and Contributed for Workflow in Repo www.linkedin.com/in/habeneheir-h-tickheir |
+| ------- | --- | --- |
+| <h3 align="center"> Namrata  </h3> |  @Namrata  | Performed Complete Pipeline, Contributed for Workflow in Repo and Worked on Project Proposalhttps://www.linkedin.com/in/namrata-sharma-186097174/  | 
+| ------- | --- | --- |
+| <h3 align="center"> Shalaka More </h3> | @shalaka | Validation of Complete Pipeline and Worked on Project Proposal https://www.linkedin.com/in/shalaka-more-03277913b |
+| ------- | --- | --- |
+| <h3 align="center"> Samson Folami </h3> | @Samson | Validation of Complete Pipeline and Worked on Project Proposal https://www.linkedin.com/in/samson-folami-54b4b41a1/ |
+| ------- | --- | --- |
+| <h3 align="center"> Shruti Chowdhury  </h3> | @Shruti2754 | Validation of Complete Pipeline and Worked on Project Proposal www.linkedin.com/in/shruti-chowdhury-8b876921a  | 
+| ------- | --- | --- |
+| <h3 align="center"> Filani Bisola  </h3> | @bisola |  Project Proposal and Performed Quality Check and Mapping in Pipeline https://www.instagram.com/filani.bisola/  |
+| ------- | --- | --- |
+| <h3 align="center"> Janefrances Okeke  </h3> | @Janefrances |  Performed Complete Pipeline https://www.linkedin.com/in/janefrances-okeke-547416223  |
+| ------- | --- | --- |
+| <h3 align="center"> Joy Egbejale </h3> | @joyomonighoo |   |
+| ------- | --- | --- |
 
 
 ## Thank you for your Time and Patience :relaxed: 
