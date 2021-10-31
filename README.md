@@ -273,6 +273,8 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | <h3 align="center"> Shruti Chowdhury  </h3> | <img src="https://user-images.githubusercontent.com/92269847/139531710-d2f5bd44-4263-4c7b-80b8-812e81225d05.jpg"  width="200" height="250"> | @Shruti2754 |  www.linkedin.com/in/shruti-chowdhury-8b876921a  | 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Filani Bisola  </h3> | <img src="https://user-images.githubusercontent.com/49569153/139529654-6299966b-26b7-41f6-b253-586e5d338ffd.jpg"  width="200" height="250"> | @bisola |   https://www.instagram.com/filani.bisola/  |
+| ------- | --- | --- | --- |
+| <h3 align="center"> Janefrances Okeke  </h3> | <img src="https://user-images.githubusercontent.com/92263336/139578201-14e0c817-ddb3-47b8-9943-89606e4a8b10.jpg"  width="200" height="250"> | @Janefrances |   https://www.linkedin.com/in/janefrances-okeke-547416223  
 ## Thank you for your Time and Patience :relaxed: 
  <p align="center">
    <br>
